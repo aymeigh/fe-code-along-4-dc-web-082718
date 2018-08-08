@@ -99,6 +99,8 @@ figcaption {
 .col-3 {
   background: #ccc;
 }
-}
+
+.first {
+  margin-left: 0%;
 }
 }
